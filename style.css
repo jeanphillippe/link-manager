@@ -1,10 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
 html {
      background-color: #09224f;
-background: #183C79;
-background: -webkit-linear-gradient(top left, #183C79, #3DE6FF);
-background: -moz-linear-gradient(top left, #183C79, #3DE6FF);
-background: linear-gradient(to bottom right, #183C79, #3DE6FF);
 
 }
 body {
